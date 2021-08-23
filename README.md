@@ -4,4 +4,4 @@ User audit uses : Spring Boot + Thymeleaf + Spring Data
 
 
 
-![Maven CI](https://github.com/mapaclaon/useraudit/actions/workflows/useraudit-actions/badge.svg)
+![Maven CI](https://github.com/mapaclaon/useraudit/actions/workflows/useraudit-actions.yml/badge.svg)
