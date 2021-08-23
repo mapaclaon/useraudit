@@ -23,6 +23,7 @@ jobs:
         uses: actions/setup-java@v2
         with:
           java-version: 8
+          distribution: 'adopt'
       - name: Build project with Maven
         run: mvn clean install test -B package --file pom.xml
   docker_push_to_registries:
